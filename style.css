@@ -1,0 +1,16 @@
+#game div {
+  border: 3px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 40px;
+  display:inline-block;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+body {
+  background-color: rgb(251, 220, 171);
+}
